@@ -6,3 +6,4 @@
 - Spring Data JPA does the heavy lifting for me by reducing the boilerplate code that we have to write
 - Spring Data JPA gives me lots of generated queries
 - I can access my database without having to write one single line of SQL(Worst Programming Language Ever) thanks to repositories
+- I love BTS, BLACKPINK, and TWICE; Jimin is the love of my life.😍
